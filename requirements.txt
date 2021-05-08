@@ -4,7 +4,7 @@ celery==4.3.0
 Django==2.2.7
 django-widget-tweaks==1.4.5
 dnspython==1.16.0
-eventlet==0.25.1
+eventlet==0.31.0
 greenlet==0.4.15
 importlib-metadata==0.23
 kombu==4.6.6
